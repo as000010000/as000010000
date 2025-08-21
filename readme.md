@@ -13,8 +13,8 @@
 <!-- Profile Views & Stars Counter -->
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/as000010000?style=for-the-badge&color=yellow&label=Followers)
-  ![GitHub User's stars](https://img.shields.io/github/stars/as000010000?style=for-the-badge&color=green&label=Total%20Stars)
+  ![Profile Views](https://komarev.com/ghpvc/?username=as000010000&style=for-the-badge&color=blue&label=Profile%20Views)
+  ![GitHub Stars](https://img.shields.io/github/stars/as000010000?style=for-the-badge&color=blueviolet&label=Total%20Stars&logo=github)
   
 </div>
 
@@ -94,7 +94,7 @@ const as000010000 = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=as000010000&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=as000010000&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&title=Commits,Repositories,Stars,Followers,Issues,PullRequest&text-color=000000" alt="Trophies" />
 </div>
 
 <!-- Animated Divider -->
@@ -103,20 +103,13 @@ const as000010000 = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=as000010000&theme=redical&bg_color=141321&color=FE6E96&line=FE6E96&point=ff3860&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=as000010000&theme=react&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
+<!-- GitHub Stats Cards -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=as000010000&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=default&hide_border=true&background=ffffff" />
 </div>
 
 <!-- Animated Divider -->
