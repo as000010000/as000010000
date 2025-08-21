@@ -168,11 +168,6 @@ const as000010000 = {
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 ![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
 
-### 🎲 Random Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
