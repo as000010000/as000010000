@@ -80,12 +80,12 @@ const as000010000 = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=as000010000&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as000010000&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=as000010000&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as000010000&layout=compact&theme=default&langs_count=8&bg_color=ffffff&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=default&hide_border=true&background=ffffff" alt="GitHub Streak" />
 </div>
 
 <!-- Animated Divider -->
@@ -117,14 +117,16 @@ const as000010000 = {
 
 ## 📌 Featured Projects
 
-<div align="center">
-  
-[![Windsurf](https://github-readme-stats.vercel.app/api/pin/?username=as000010000&repo=windsurf&theme=radical)](https://github.com/as000010000/windsurf)
-[![VSCode](https://github-readme-stats.vercel.app/api/pin/?username=as000010000&repo=vscode&theme=radical)](https://github.com/as000010000/vscode)
-
-[![Hi-man](https://github-readme-stats.vercel.app/api/pin/?username=as000010000&repo=Hi-man&theme=radical)](https://github.com/as000010000/Hi-man)
-[![Miami-Kids-School-Buses](https://github-readme-stats.vercel.app/api/pin/?username=as000010000&repo=Miami-Kids-School-Buses&theme=radical)](https://github.com/as000010000/Miami-Kids-School-Buses)
-
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/as000010000/windsurf" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as000010000&repo=windsurf&theme=default&bg_color=ffffff&hide_border=true" alt="Windsurf" style="margin: 10px;"/>
+  </a>
+  <a href="https://github.com/as000010000/vscode" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as000010000&repo=vscode&theme=default&bg_color=ffffff&hide_border=true" alt="VSCode" style="margin: 10px;"/>
+  </a>
+  <a href="https://github.com/as000010000/Hi-man" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=as000010000&repo=Hi-man&theme=default&bg_color=ffffff&hide_border=true" alt="Hi-man" style="margin: 10px;"/>
+  </a>
 </div>
 
 <!-- Animated Divider -->
