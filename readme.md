@@ -175,6 +175,15 @@ const as000010000 = {
 
 </div>
 
+## 🌐 Web Development
+
+<div align="center">
+  <a href="https://snowbasestudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Snowbase_Studio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Visit Snowbase Studio" />
+  </a>
+  <p>Click above to visit my web development studio where we create amazing digital experiences!</p>
+</div>
+
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=100&section=footer&animation=twinkling" width="100%" />
