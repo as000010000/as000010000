@@ -1,21 +1,26 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=200&section=header&text=as000010000&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20MR L%20GOTCHA%20👿&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00FFA3,100:007CF0&height=220&section=header&text=AS000010000&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=60" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+as000010000+👿;Full+Stack+Developer;Open+Source+Enthusiast;Always+learning%2C+always+coding!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+as000010000+👿;Full+Stack+Developer;Open+Source+Enthusiast;Always+learning%2C+always+coding!)](https://git.io/typing-svg)
   
 </div>
 
 <!-- Profile Views & Stars Counter -->
-<div align="center">
-
+<div align="left">
+  
   ![GitHub Stars](https://img.shields.io/github/stars/as000010000?style=for-the-badge&color=blueviolet&label=Total%20Stars&logo=github)
   
 </div>
+
+
+  <a href="https://snowbasestudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Snowbase_Studio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Visit Snowbase Studio" />
+  </a>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -78,26 +83,31 @@ const as000010000 = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=as000010000&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=ffffff&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=as000010000&layout=compact&theme=default&langs_count=8&bg_color=ffffff&hide_border=true" alt="Top Languages" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=default&hide_border=true&background=ffffff" alt="GitHub Streak" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as000010000&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=as000010000&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=as000010000&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=as000010000&theme=transparent) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=as000010000&theme=transparent&utcOffset=8)
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=transparent&hide_border=true&background=ffffff" alt="GitHub Streak" />
 </div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
 ## 🏆 GitHub Trophies
 
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=as000010000&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&title=Commits,Repositories,Stars,Followers,Issues,PullRequest&text-color=000000" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="Trophies" />
 </div>
 
-<!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 ## 📈 Contribution Graph
 
@@ -105,15 +115,10 @@ const as000010000 = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=as000010000&theme=react&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<!-- GitHub Stats Cards -->
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=as000010000&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=default&hide_border=true&background=ffffff" />
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
 ## 📌 Featured Projects
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -128,18 +133,9 @@ const as000010000 = {
   </a>
 </div>
 
-<!-- Animated Divider -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--END_SECTION:waka-->
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 ## 🤝 Connect with Me
 
@@ -158,30 +154,19 @@ const as000010000 = {
 <div align="center">
 
 ### 🎯 GitHub Achievements
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="200" alt="Quickdraw">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="200" alt="Pull Shark">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="200" alt="Galaxy Brain">
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 </div>
-
-## 🌐 Web Development
-
-<div align="center">
-  <a href="https://snowbasestudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Snowbase_Studio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Visit Snowbase Studio" />
-  </a>
-  <p>Click above to visit my web development studio where we create amazing digital experiences!</p>
-</div>
-
 <!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=100&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00FFA3,100:007CF0&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
-
 
 <div align="center">
   <b>Thanks for visiting my profile! Have a great day! 👿</b>
