@@ -24,34 +24,8 @@
   </a>
 
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```javascript
-const as000010000 = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "JavaScript", "HTML", "CSS", "Python"],
-    askMeAbout: ["web dev", "tech", "open source", "innovation"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", ]
-            css: [ "Tailwind", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        devOps: ["Docker", "GitHub Actions"],
-        tools: ["Git", "VSCode", "Figma"]
-    },
-    currentFocus: "Building amazing web applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+### ⭐ Recently Starred
+![Recently Starred](https://github.com/as000010000/as000010000/blob/master/metrics.plugin.stars.svg)
 ```
 
 <!-- Animated Divider -->
