@@ -26,7 +26,6 @@
 
 ### ⭐ Recently Starred
 ![Recently Starred](https://github.com/as000010000/as000010000/blob/master/metrics.plugin.stars.svg)
-```
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
