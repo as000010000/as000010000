@@ -74,11 +74,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Connect with Me
-<div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/as000010000)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@snowbasestudio.com)
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00FFA3,100:007CF0&height=100&section=footer&animation=twinkling" width="100%" />
