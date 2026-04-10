@@ -30,7 +30,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="30" />
-
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg" height="30" />
