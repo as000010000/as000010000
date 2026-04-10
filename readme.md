@@ -65,14 +65,7 @@
   <img src="https://raw.githubusercontent.com/as000010000/as000010000/master/github-metrics.svg" alt="Recently Starred" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=as000010000&theme=react&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">gif">
 
 
 <div align="center">
