@@ -60,19 +60,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=as000010000&theme=transparent" width="100%"/>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=as000010000&theme=transparent" width="45%"/> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=as000010000&theme=transparent" width="45%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=as000010000&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## ⭐ Recently Starred Repositories
 <div align="center">
   <img src="https://raw.githubusercontent.com/as000010000/as000010000/master/github-metrics.svg" alt="Recently Starred" width="100%" />
