@@ -71,7 +71,6 @@
 </p>
 
 <div align="center">
-  <b>Thanks for visiting my profile! Have a great day! 👿</b>
+  <b>Thanks for visiting my profile! Wanna follow me?👿👀😁</b>
   <br><br>
-  <i>Happy Coding!</i> 🚀
 </div>
