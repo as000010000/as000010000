@@ -1,16 +1,20 @@
-name: Metrics
+name: Public Metrics
 on:
-  schedule: [{cron: "0 * * * *"}] # Runs every hour
+  schedule: [{cron: "0 * * * *"}] # Updates every hour
   workflow_dispatch:
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to save the SVG back to the repo
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # We use the built-in token instead of a PAT
+          token: ${{ github.token }} 
           user: as000010000
-          template: classic
-          base: "" # This removes the default stats so ONLY stars show up
+          base: "" 
           plugin_stars: yes
-          plugin_stars_limit: 4 # Show last 4 stars
+          plugin_stars_limit: 3
+          # This tells metrics to only use public data
+          config_allow_authenticated_user_only: no
