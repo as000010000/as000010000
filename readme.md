@@ -61,12 +61,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⭐ Recently Starred Repositories
-<div align="center">
+ <div align="center">
   <img src="https://raw.githubusercontent.com/as000010000/as000010000/master/github-metrics.svg" alt="Recently Starred" width="100%" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-
 
 
 <p align="center">
