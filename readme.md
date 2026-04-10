@@ -19,18 +19,44 @@
 
 ## 🚀 Tech Stack & Tools
 
-<div align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" height="30" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="30" />
+
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="30" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg" height="30" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" height="30" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" height="30" />
-</div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig3.svg" height="30" />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
