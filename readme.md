@@ -60,21 +60,43 @@ const as000010000 = {
 <div align="center">
 
 ### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Lua/lua3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg" height="30" />
 
-### 🎨 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Yarn/yarn3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Babel/babel3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Electron/electron3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Astro/astro3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MariaDB/mariadb3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue3.svg" height="30" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig3.svg" height="30" />
 
 </div>
 
