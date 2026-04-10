@@ -9,6 +9,8 @@
   
 </div>
 
+
+                                                 
 <!-- Profile Views & Stars Counter -->
 <div align="left">
   
@@ -164,7 +166,7 @@ const as000010000 = {
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/as000010000)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as000010000@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@snowbasestudio.com)
 
 </div>
 
@@ -189,6 +191,10 @@ const as000010000 = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00FFA3,100:007CF0&height=100&section=footer&animation=twinkling" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ez0000001000000&label=views&color=F7B93E&style=flat-square" />
+</p>
 
 <div align="center">
   <b>Thanks for visiting my profile! Have a great day! 👿</b>
