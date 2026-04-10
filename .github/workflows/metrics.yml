@@ -1,7 +1,6 @@
 name: Public Metrics
 on:
   schedule:
-    # Runs at minute 0, 20, and 40 of every hour
     - cron: "0,20,40 * * * *" 
 jobs:
   build:
@@ -13,6 +12,7 @@ jobs:
         with:
           token: ${{ github.token }} 
           user: as000010000
+          filename: github-metrics.svg
           base: "" 
           plugin_stars: yes
           plugin_stars_limit: 3
