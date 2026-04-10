@@ -19,7 +19,7 @@
 
 ## 🚀 Tech Stack & Tools
 
-<p align="left">
+<p align="center">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" height="30" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg" height="30" />
