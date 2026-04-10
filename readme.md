@@ -62,7 +62,7 @@
 
 ## ⭐ Recently Starred
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ez0000001000000/as000010000/refs/heads/main/github-metrics.svg" height="300" />
+  <img src="https://raw.githubusercontent.com/ez0000001000000/as000010000/refs/heads/main/github-metrics.svg" height="380" />
 </div>
 
 
