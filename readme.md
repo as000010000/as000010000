@@ -65,12 +65,9 @@
   <img src="https://raw.githubusercontent.com/as000010000/as000010000/master/github-metrics.svg" alt="Recently Starred" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:00FFA3,100:007CF0&height=100&section=footer&animation=twinkling" width="100%" />
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=as000010000&label=views&color=F7B93E&style=flat-square" />
