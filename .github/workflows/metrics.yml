@@ -1,20 +1,19 @@
 name: Public Metrics
 on:
-  schedule: [{cron: "0 * * * *"}] # Updates every hour
-  workflow_dispatch:
+  schedule:
+    # Runs at minute 0, 20, and 40 of every hour
+    - cron: "0,20,40 * * * *" 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to save the SVG back to the repo
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # We use the built-in token instead of a PAT
           token: ${{ github.token }} 
           user: as000010000
           base: "" 
           plugin_stars: yes
           plugin_stars_limit: 3
-          # This tells metrics to only use public data
           config_allow_authenticated_user_only: no
